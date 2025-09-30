@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: wisecow-container
-        image: deepak21404/wisecow:v1
+        image: docker.io/deepak21404/wisecow:596a018
         ports:
         - containerPort: 4499
 
