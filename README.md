@@ -1,3 +1,6 @@
+# Flow Diagram Of Execution
+![Flow Diagram](flow-diagram/wisecowFlow.drawio.svg)
+
 # Cow wisdom web server
 
 ## Prerequisites
